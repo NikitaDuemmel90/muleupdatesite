@@ -5,7 +5,7 @@ Installation guide:
   2. Navigate to Help → Install new software.
   3. Paste the following link into the Work with field: https://nikitaduemmel90.github.io/muleupdatesite/
   4. Select the MuLE plugin.
-  5. (Optional) Activate the option Contant all update sites during install to find required software. 
+  5. (Optional) Activate the option *Contact all update sites during install to find required software*. 
      This step is required if you encounter an error message during the install process.
   6. Press Next, a new window will open, press Next again.
   7. Accept the (non-existing) license, press Finish. Press Install Anyway.
