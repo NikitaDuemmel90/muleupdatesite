@@ -19,5 +19,5 @@ Installation guide:
 Links to repositories:
   1. MuLE source code: [https://github.com/NikitaDuemmel90/mulesource](https://github.com/NikitaDuemmel90/mulesource)
   2. This update site: [https://github.com/NikitaDuemmel90/muleupdatesite](https://github.com/NikitaDuemmel90/muleupdatesite)
-  3. Update site source: PLACEHOLDER
+  3. Update site source: [https://github.com/NikitaDuemmel90/muleupdatesitesource](https://github.com/NikitaDuemmel90/muleupdatesitesource)
   4. MuLE homepage: [https://github.com/NikitaDuemmel90/mulehome](https://github.com/NikitaDuemmel90/mulehome)
